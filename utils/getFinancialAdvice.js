@@ -16,7 +16,7 @@ const getFinancialAdvice = async (totalBudget, totalIncome, totalSpend) => {
     `;
 
     // Call Gemini API
-    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+    const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
     const result = await model.generateContent(userPrompt);
     const response = await result.response;
     const advice = response.text();
