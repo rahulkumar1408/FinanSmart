@@ -1,4 +1,3 @@
-
 # AI Finan Smart Platform
 
 Project Overview
@@ -6,7 +5,6 @@ Project Overview
 AI Finan Smart is an advanced AI-powered financial advice platform built with the latest Next.js framework. This project allows users to input key financial data such as income, expenses, and budgets, and provides personalized financial advice and insights based on their inputs. It aims to assist users in managing their finances more effectively by leveraging AI-driven recommendations.
 
 This platform serves as a learning resource for integrating AI-powered insights and financial management features within a modern Next.js application.
-
 
 ## Features
 
@@ -72,3 +70,4 @@ Follow these steps to run the project locally:
 - **Budget Visualization:** Display income, expenses, and savings via interactive charts.
 
 - **Mobile Responsiveness:** Further optimize for mobile devices.
+
